@@ -8,3 +8,4 @@ print((character_name[0]))  # grabs the first letter of the string
 print(character_name.index("m"))
 print(character_name.replace("Roman", "Risky"))  # Replaces the old variable string with a new variable string
 
+print(character_name.lower()) . # Makes the var(character_name) lower case
